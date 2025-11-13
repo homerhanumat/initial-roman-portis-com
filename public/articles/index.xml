@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Roman portis</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on Roman portis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chessboard Pattern</title>
+      <link>http://localhost:1313/articles/article-2/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/article-2/</guid>
+      <description>&lt;p&gt;This is a test page for my second article.&lt;/p&gt;&#xA;&lt;p&gt;If you can see this in the browser, the YAML front matter is working.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reversing an Array — Pure vs In-Place</title>
+      <link>http://localhost:1313/articles/article-1/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/article-1/</guid>
+      <description>&lt;p&gt;This article is based on an exercise from &lt;strong&gt;Eloquent JavaScript&lt;/strong&gt;.&lt;br&gt;&#xA;The task is to write two functions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;reverseArray(array)&lt;/code&gt; – returns a &lt;strong&gt;new&lt;/strong&gt; array that has the elements in reverse order.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;reverseArrayInPlace(array)&lt;/code&gt; – reverses the &lt;strong&gt;same&lt;/strong&gt; array in place.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;explanation&#34;&gt;Explanation&lt;/h3&gt;&#xA;&lt;p&gt;For &lt;code&gt;reverseArray&lt;/code&gt;, I decided not to change the original array.&lt;br&gt;&#xA;Instead, I create a new empty array and loop over the input from the end to the beginning,&lt;br&gt;&#xA;pushing each element into the new array. This makes the function &lt;strong&gt;pure&lt;/strong&gt; (no side effects).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
