@@ -1,7 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Welcome"
-theme = "bootstrap-bp-hugo-theme"
+# HSW:  I will swith to theme ananke to see if anything shows up:
+#theme = "bootstrap-bp-hugo-theme"
+theme = "ananke"
+
 
 [menu]
   [[menu.main]]
